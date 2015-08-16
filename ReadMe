@@ -1,0 +1,6 @@
+首先进入项目然后执行以下语句
+mvn tomcat:run
+
+接着打开浏览器输入地址如下
+http://localhost:8080/B/17/index.jsp
+然后即可点击登录链接
